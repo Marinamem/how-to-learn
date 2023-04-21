@@ -4,3 +4,7 @@
   margin: 0;
   text-decoration: none;
 }
+.footer__column-link:hover {
+  transition: all linear 0.2s;
+  opacity: 0.3;
+}
